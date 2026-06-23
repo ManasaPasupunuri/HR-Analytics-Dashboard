@@ -1,5 +1,12 @@
 # HR Analytics Dashboard using Power BI
 
+## Live Dashboard
+
+Explore the interactive Power BI dashboard here:
+
+[View Live Dashboard](https://app.powerbi.com/links/LR3towkH0c?ctid=98f2531c-ef28-4c7d-a0bb-68624c1fdcc0&pbi_source=linkShare)
+
+
 ## Overview
 
 This project focuses on analyzing employee data to generate meaningful HR insights using Power BI. The dashboard helps understand workforce distribution, salary patterns, employee growth, qualifications, and leave balances.
